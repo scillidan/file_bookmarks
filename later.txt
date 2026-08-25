@@ -1,5 +1,7 @@
+https://typst.app/universe/package/sanity - typst,utility
 https://antiboredom.github.io/p5.riso - js
 https://github.com/lightningpixel/modly - 3d
+https://gitlab.gnome.org/andy128k/hearts - game
 https://github.com/Abdess/retrobios - game
 
 https://soulpotion-games.itch.io/asgards-fall - game

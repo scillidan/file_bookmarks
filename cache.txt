@@ -1,3 +1,5 @@
+https://typst.app/universe/package/eskd-drafting - typst,layout
+https://typst.app/universe/package/dorodango - typst,components
 https://typst.app/universe/package/automosaic - typst,layout
 https://hungrytrolls.itch.io/imperator-velis - game
 https://github.com/GBALATRO/balatro-gba - game
