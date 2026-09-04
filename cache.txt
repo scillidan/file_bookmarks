@@ -1,3 +1,4 @@
+https://typst.app/universe/package/vanilla-aruco - typst,visualization
 https://typst.app/universe/package/eskd-drafting - typst,layout
 https://typst.app/universe/package/dorodango - typst,components
 https://typst.app/universe/package/automosaic - typst,layout
