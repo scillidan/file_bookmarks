@@ -1,6 +1,13 @@
-https://typst.app/universe/package/sanity - typst,utility
-https://antiboredom.github.io/p5.riso - js
 https://github.com/lightningpixel/modly - 3d
+https://antiboredom.github.io/p5.riso - js
+https://tympanus.net/codrops/2026/09/04/beyond-the-luminance-ramp-a-shape-aware-ascii-renderer-in-three-js/ - js
+
+https://github.com/AvaLovelace1/BrickGPT - model
+https://github.com/partcad/partcad - model
+https://github.com/jo/hyperwood - model
+https://github.com/earthtojake/text-to-cad
+https://github.com/GaParmar/img2img-turbo
+
 https://gitlab.gnome.org/andy128k/hearts - game
 https://github.com/Abdess/retrobios - game
 
@@ -29,12 +36,6 @@ https://github.com/PrismRL/prism - love2d
 
 https://pyrocreep.itch.io/ploink - game,godot
 https://softwool.itch.io/torecower - game,godot
-
-https://github.com/AvaLovelace1/BrickGPT - model
-https://github.com/partcad/partcad - model
-https://github.com/jo/hyperwood - model
-https://github.com/earthtojake/text-to-cad
-https://github.com/GaParmar/img2img-turbo
 
 https://github.com/proudust/gh-describe - git,tag
 https://github.com/marketplace/actions/cve-lite-cli - act
